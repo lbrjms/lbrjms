@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lbrjms&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900" />
 -->
 
-<img align="right" width="350" height="280" src="https://poliigon.com/cdn-cgi/image/width=900,q=75,f=auto/https://cdn.poliigon.com/assets/7977/previews/FoodApplesPinkLady001_Preview01.png?v=1691680660">
+<img align="right" width="320" height="280" src="https://poliigon.com/cdn-cgi/image/width=900,q=75,f=auto/https://cdn.poliigon.com/assets/7977/previews/FoodApplesPinkLady001_Preview01.png?v=1691680660">
 
 #### 语言与框架
 
