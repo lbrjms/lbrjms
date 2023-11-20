@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-<img align="left" width="350" height="230" src="https://poliigon.com/cdn-cgi/image/width=900,q=75,f=auto/https://cdn.poliigon.com/assets/5280/previews/FirewoodSplitCollection001_Preview1.png?v=1637351184">
+<img align="right" width="350" height="230" src="https://poliigon.com/cdn-cgi/image/width=900,q=75,f=auto/https://cdn.poliigon.com/assets/5280/previews/FirewoodSplitCollection001_Preview1.png?v=1637351184">
 
 
 
