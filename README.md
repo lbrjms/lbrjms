@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning all
 - 🤔 I’m looking for help with work
 - ⚡ js
+- ⚡ css
+- ⚡ html
+- ⚡ oc
+- ⚡ swift
 - 🎖 web前端，ios 
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lbrjms&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900" />
