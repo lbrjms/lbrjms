@@ -6,6 +6,10 @@
 Here are some ideas to get you started:
 -->
 
+<img align="right" width="350" height="280" src="https://poliigon.com/cdn-cgi/image/width=900,q=75,f=auto/https://cdn.poliigon.com/assets/5280/previews/FirewoodSplitCollection001_Preview1.png?v=1637351184">
+
+
+
 - 🔭 I’m currently working on home
 - 🌱 I’m currently learning all
 - 🤔 I’m looking for help with work
