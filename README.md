@@ -12,28 +12,22 @@
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://blog.anheyu.com/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
-  <a href="https://twitter.com/anzhiyu_c"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UC1zFQPt_DccDr0pn60jzoQQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-  <a href="https://blog.csdn.net/CZW2268025923?spm=1010.2135.3001.5343"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/372204786"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/xi-gua-pi-pi-60"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
+  <a href="https://www.youtube.com/channel"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
+  <a href="https://blog.csdn.net/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://space.bilibili.com"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://www.zhihu.com"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anzhiyu-c" /></div>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=lbrjms" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
 
 # 🙋 Hello
 
-欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
+欢迎大佬来到我的主页 😝， 🙌， ✋~
 
-但是记学习真的是一个很棒的习惯 💪，每次一次学习别人的东西转变成为自己的，都是一次成长，了解为什么要这么做，为什么不这么做 ⚡
-
-每周我都会尽量进行更新 ☁️，如果没更的话，可能是我忘了，也可能是我在钻研某个东西的时候太入迷了 ~~肯定又熬夜了~~
-
-~~同学们不要学我，老是熬夜会长痘~~
-
-💪 正在学习:
+💪 🧠正在学习:
 
 &emsp;&emsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -45,10 +39,8 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-3f745c?style=flat-square&logo=Vue.js)
-![React](https://img.shields.io/badge/-React-07afd9?style=flat-square&logo=React)
+![Go](https://img.shields.io/badge/-go-07afd9?style=flat-square&logo=Got)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-
-🧠 计划学习:
 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
@@ -78,7 +70,7 @@
 <!-- 连续提交代码天数记录 -->
 <p align="center">
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzhiyu-c&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lbrjms&theme=dark&hide_border=true" />
   <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p>
 
@@ -87,13 +79,13 @@
 <br>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=anzhiyu-c&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=lbrjms&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
 
 <!-- GitHub数据统计 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=anzhiyu-c&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzhiyu-c&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbrjms&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 <!-- 最近博客和豆瓣动态 -->
@@ -124,27 +116,11 @@
 <tr>
 <td valign="top">
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 17 December 2023 - To: 16 January 2024
-
-Total Time: 4 hrs 7 mins
-
-Vue.js       2 hrs 8 mins    █████████████░░░░░░░░░░░░   51.88 %
-Go           36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
-YAML         31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-Markdown     26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-JavaScript   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-```
-
-<!--END_SECTION:waka-->
-
 </tr>
 </table>
 
 <!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=anzhiyu-c&theme=xcode" /></div>
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=lbrjms&theme=xcode" /></div>
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
